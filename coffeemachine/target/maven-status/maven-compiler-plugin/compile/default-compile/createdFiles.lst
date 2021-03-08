@@ -1,0 +1,4 @@
+com/coffeemachine/coffeemachine/CoffeemachineApplication.class
+com/coffeemachine/coffeemachine/dto/response/BaseResponse.class
+com/coffeemachine/coffeemachine/dto/response/ServeBeverageResponse.class
+com/coffeemachine/coffeemachine/controller/CoffeeController.class
